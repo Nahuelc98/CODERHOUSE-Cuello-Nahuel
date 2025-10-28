@@ -30,3 +30,12 @@
 
 
 > Cuello Nahuel.
+
+- Si el PDF no se visualiza en GitHub, consulte el proyecto aquí:
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1BqN1pgTcHQobD7up_xntKR4UYGRYMpN4" target="_blank">
+    <img src="https://img.shields.io/badge/📁%20Ver%20Drive-white?style=for-the-badge" />
+  </a><br>
+</p>
+
+
