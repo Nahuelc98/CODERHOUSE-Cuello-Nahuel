@@ -10,6 +10,13 @@
   </a>
 </p>
 
+**Integración de Datos – GitHub Oficial:**
+  <a href="https://github.com/statsbomb/open-data">
+    <img src="https://img.shields.io/badge/🔗%20VER%20GITHUB-0A66C2?style=for-the-badge" />
+  </a>
+</p>
+
+
 ## Enlace al Notebook:
 <p align="center">
   <a href="https://colab.research.google.com/drive/1YiMHzEnaRc20g0BxPhXTf1JzSbF_crwJ">
