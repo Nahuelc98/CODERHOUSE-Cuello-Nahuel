@@ -4,7 +4,7 @@
 
   * Este proyecto analiza datos de partidos de fútbol con el objetivo de identificar patrones, comprender qué variables influyen en los resultados y generar predicciones utilizando técnicas de estadística y machine learning. Incluye visualizaciones, análisis de correlación y un modelo predictivo, permitiendo obtener insights claros sobre el desempeño de los equipos y la dinámica del juego.
 
-  * Para el desarrollo del proyecto se utilizó una base de datos en formato CSV junto con la integración de datos reales obtenidos mediante la librería StatsBomb Open Data (API). Esta combinación permitió acceder a datos reales de partidos de fútbol y enriquecer el análisis estadístico y predictivo del proyecto.
+  * Para el desarrollo del proyecto se utilizó una base de datos en formato CSV junto con la integración de datos obtenidos mediante la librería StatsBomb Open Data (API). Esta combinación permitió acceder a datos reales de partidos de fútbol y enriquecer el análisis estadístico y predictivo del proyecto.
 
 **Base de datos del proyecto:**
   <a href="https://docs.google.com/spreadsheets/d/1-blVunJtWN83rimMzCWofUnGk9A4IroJguu8Jfj3vB4/edit?gid=429044465">
